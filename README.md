@@ -6,7 +6,7 @@ The data set is at 10 min for about 4.5 months. The house temperature and humidi
 
 For more information about the house, data collection, R scripts and figures, please refer to the paper and to the following github repository:
 
-[Web Link]
+https://github.com/LuisM78/Appliances-energy-prediction-data
 
 
 Attribute Information:
